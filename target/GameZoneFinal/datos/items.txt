@@ -1,0 +1,3 @@
+1|Copa Neón Valorant|Torneo oficial de Valorant - 5v5|50000.0|15|Valorant|2026-11-27|Abierto
+2|Liga Nariño LoL|Liga regional de League of Legends|30000.0|8|League of Legends|2026-12-12|Abierto
+3|Arena Free Fire Pasto|Torneo express Free Fire|15000.0|12|Free Fire|2026-11-10|En curso
